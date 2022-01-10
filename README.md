@@ -1,4 +1,4 @@
-# CERC code repository
+# CERC MATLAB code repository
 
 Please contact Daniel Hutama if you have any questions or suggestions. 
 
