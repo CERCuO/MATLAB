@@ -7,7 +7,7 @@ README.md last edited on 10-Jan-2022.
 -----------------------------------------------------------------
 INSTRUCTIONS
 
-Within each of the Core folder, there will be 5 subfolders:
+Within the Core folder, there will be five subfolders:
     1) Dependencies
     2) Documentation
     3) Drivers
